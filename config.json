@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"WiltisSMP.aternos.me",
+	"port": "35071",
 	"name": "BOT_NAME"
 }
